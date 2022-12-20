@@ -1,21 +1,9 @@
 ### Hi there 👋
 
-<!--
-**HyobinBae/HyobinBae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-- 🌱 프론트엔드 주니어 개발자입니다
-- 🤔 아직 모르는 게 많아요
-- 📫 연락은 amyBae108@gmail.com 
+ 🌱 안녕하세요 저는 프론트엔드 주니어 개발자입니다
+ 🤔 아직 모르는 게 많아요
+ <img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/>
+ 📫 연락은 amyBae108@gmail.com 
