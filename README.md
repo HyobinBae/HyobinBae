@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🌱 프론트엔드 주니어 개발자입니다
+- 🤔 아직 모르는 게 많아요
+- 📫 연락은 amyBae108@gmail.com 
