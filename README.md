@@ -1,14 +1,14 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlignY=40&text=HyobinBae&color=gradient)
 
+<align="center">
 
-<div align="center">
- **📚Tech Stack📚**
+ # 📚Tech Stack📚
  <div>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
  </div>
  </br>
 
- **🛠️Tools🛠️**
+ # 🛠️Tools🛠️
  <div>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
