@@ -2,13 +2,13 @@
 
 
 <div align="center">
-<h1> 📚Tech Stack📚 </h1>
+**📚Tech Stack📚**
 <div>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
 </div>
 </br>
  
-<h1> 🛠️Tools🛠️ </h1>
+**🛠️Tools🛠️**
 <div>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
